@@ -1,4 +1,4 @@
-# My Angry Faces
+# My Vk Angry Faces
 
 Using [Microsoft Cognitive Serices Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api#detection) for emotions detection on VK photos. 
 
